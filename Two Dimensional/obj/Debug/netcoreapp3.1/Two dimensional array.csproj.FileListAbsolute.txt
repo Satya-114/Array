@@ -1,0 +1,12 @@
+C:\Users\Satya Maddila\source\repos\Two dimensional array\bin\Debug\netcoreapp3.1\Two dimensional array.exe
+C:\Users\Satya Maddila\source\repos\Two dimensional array\bin\Debug\netcoreapp3.1\Two dimensional array.deps.json
+C:\Users\Satya Maddila\source\repos\Two dimensional array\bin\Debug\netcoreapp3.1\Two dimensional array.runtimeconfig.json
+C:\Users\Satya Maddila\source\repos\Two dimensional array\bin\Debug\netcoreapp3.1\Two dimensional array.runtimeconfig.dev.json
+C:\Users\Satya Maddila\source\repos\Two dimensional array\bin\Debug\netcoreapp3.1\Two dimensional array.dll
+C:\Users\Satya Maddila\source\repos\Two dimensional array\bin\Debug\netcoreapp3.1\Two dimensional array.pdb
+C:\Users\Satya Maddila\source\repos\Two dimensional array\obj\Debug\netcoreapp3.1\Two dimensional array.AssemblyInfoInputs.cache
+C:\Users\Satya Maddila\source\repos\Two dimensional array\obj\Debug\netcoreapp3.1\Two dimensional array.AssemblyInfo.cs
+C:\Users\Satya Maddila\source\repos\Two dimensional array\obj\Debug\netcoreapp3.1\Two dimensional array.csproj.CoreCompileInputs.cache
+C:\Users\Satya Maddila\source\repos\Two dimensional array\obj\Debug\netcoreapp3.1\Two dimensional array.dll
+C:\Users\Satya Maddila\source\repos\Two dimensional array\obj\Debug\netcoreapp3.1\Two dimensional array.pdb
+C:\Users\Satya Maddila\source\repos\Two dimensional array\obj\Debug\netcoreapp3.1\Two dimensional array.genruntimeconfig.cache
